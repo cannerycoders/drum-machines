@@ -1,6 +1,6 @@
 {
-  "baseUrl": "https://smpldsnds.github.io/drum-machines/micro-rhythmer-12/",
-  "name": "micro-rhythmer-12",
+  "baseUrl": "https://smpldsnds.github.io/drum-machines/Micro-Rhythmer-12/",
+  "name": "Micro-Rhythmer-12",
   "samples": ["univox-ch", "univox-oh", "univox-sd"],
   "formats": ["ogg", "m4a"]
 }
