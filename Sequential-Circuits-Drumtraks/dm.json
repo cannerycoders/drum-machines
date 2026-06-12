@@ -1,20 +1,20 @@
 {
-  "baseUrl": "https://smpldsnds.github.io/drum-machines/sequential-circuits-drumtraks/",
+  "baseUrl": "https://smpldsnds.github.io/drum-machines/Sequential-Circuits-Drumtraks/",
   "name": "sequential-circuits-drumtraks",
   "samples": [
-    "dt_cabasa",
-    "dt_clap",
-    "dt_closedhat",
-    "dt_cowbell",
-    "dt_crash",
-    "dt_kick",
-    "dt_openhat",
-    "dt_ride",
-    "dt_rimshot",
-    "dt_snare",
-    "dt_tamborine",
-    "dt_tom01",
-    "dt_tom02"
+    "DT_Cabasa",
+    "DT_Clap",
+    "DT_Closedhat",
+    "DT_Cowbell",
+    "DT_Crash",
+    "DT_Kick",
+    "DT_Openhat",
+    "DT_Ride",
+    "DT_Rimshot",
+    "DT_Snare",
+    "DT_Tamborine",
+    "DT_Tom01",
+    "DT_Tom02"
   ],
   "formats": ["ogg", "m4a"]
 }
